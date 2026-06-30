@@ -2789,6 +2789,7 @@ dependencies = [
  "matchbox_socket",
  "mimalloc",
  "open",
+ "parking_lot",
  "postcard",
  "quick-xml 0.40.1",
  "rand 0.10.1",
